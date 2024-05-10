@@ -13,7 +13,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Running Game")
 
 # Load the boy and bus images
-boy_image = pygame.image.load("boy.png")
+boy_image = pygame.image.load("image/flash-man-qia.png")
 bus_image = pygame.image.load("bus.png")
 
 # Set up the boy and bus positions
