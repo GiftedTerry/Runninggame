@@ -14,7 +14,7 @@ pygame.display.set_caption("Running Game")
 
 # Load the boy and bus images
 boy_image = pygame.image.load("image/flash-man-qia.png")
-bus_image = pygame.image.load("bus.png")
+bus_image = pygame.image.load("image/purepng.com-yellow-school-busbusvehiclecarrying-passengerslarge-motor-vehiclecoachminibus-1701528460650yfeov.png")
 
 # Set up the boy and bus positions
 boy_x = 50
